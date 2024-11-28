@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-email/components": "^0.0.28",
     "dotenv": "^16.4.5",
     "moongose": "^1.0.0",
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
+    "react-email": "^3.0.2",
+    "resend": "^4.0.1",
     "zod": "^3.23.8"
   },
   "devDependencies": {
